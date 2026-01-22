@@ -151,4 +151,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3bd2834d7138ea44b9eeb436d77161d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxCharacterSpeed: 1
+  maxGroundSpeed: 1
+  maxAirSpeed: 1
+  jumpForce: 1
+  rotationSpeed: 10
+  overrideRotation: 0
+  targetRotation: {x: 0, y: 0, z: 0, w: 0}
